@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Blogger & social media influencer since 2010.
 
-### More Information
+### Partnerships
 
-A place to include any other types of information that you'd like to include about yourself.
+Feel free to contact me, to see how I can help you expand your social media reach.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+roy@vedeni.ca
