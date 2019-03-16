@@ -3,7 +3,7 @@ layout: post
 title: Links
 ---
 
-Here is a list of my profiles across the web.
+Here are my profiles across the web.
 
 Travel Blog: [Secret Diary of a Cruise Ship Worker](https://medium.com/cruise-ships)
 
