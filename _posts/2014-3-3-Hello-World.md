@@ -2,7 +2,9 @@
 layout: post
 title: Links
 ---
-[Medium](https://medium.com/@roymarvelous)
+Travel Blog: [Secret Diary of a Cruise Ship Worker](https://medium.com/cruise-ships)
+
+Writing: [Medium](https://medium.com/@roymarvelous)
 
 Doodles: [Stickmen & Unicorns](https://instagram.com/stickmenandunicorns)
 
