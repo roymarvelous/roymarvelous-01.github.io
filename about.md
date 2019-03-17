@@ -12,4 +12,4 @@ Get in touch, to explore how I can help you expand your social media reach.
 
 ### Contact
 
-roy@vedeni.ca
+hi@roymarvelous.com
